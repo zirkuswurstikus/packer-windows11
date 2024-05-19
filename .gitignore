@@ -1,0 +1,5 @@
+packer_cache/
+_temp/
+*hyperv.box
+.vagrant/
+packerlog.txt
